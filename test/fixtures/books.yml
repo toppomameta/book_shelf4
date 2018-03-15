@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  neme: MyString
+  price: 1
+  publish: MyString
+  publish_date: 2018-03-15 09:05:23
+
+two:
+  neme: MyString
+  price: 1
+  publish: MyString
+  publish_date: 2018-03-15 09:05:23
